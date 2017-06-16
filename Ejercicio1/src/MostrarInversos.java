@@ -15,7 +15,7 @@ public class MostrarInversos {
 		System.out.println("\nNumeros Mostrados en el orden Inverso\n");
 		
 		for(int i=numeros.length;i>0;--i){
-			System.out.println(numeros[i-1]);
+			System.out.println(numeros[i-1]);//holis
 		}
 	}
 
